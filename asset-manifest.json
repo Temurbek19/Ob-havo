@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.071c1744.chunk.css",
+    "main.js": "/static/js/main.b841b1c3.chunk.js",
+    "main.js.map": "/static/js/main.b841b1c3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7a51ad71.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7a51ad71.js.map",
+    "static/js/2.8228513d.chunk.js": "/static/js/2.8228513d.chunk.js",
+    "static/js/2.8228513d.chunk.js.map": "/static/js/2.8228513d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.071c1744.chunk.css.map": "/static/css/main.071c1744.chunk.css.map",
+    "static/js/2.8228513d.chunk.js.LICENSE.txt": "/static/js/2.8228513d.chunk.js.LICENSE.txt",
+    "static/media/Atmosphere.2d361135.svg": "/static/media/Atmosphere.2d361135.svg",
+    "static/media/Clear.f287b3b2.svg": "/static/media/Clear.f287b3b2.svg",
+    "static/media/Cloud.f8218436.svg": "/static/media/Cloud.f8218436.svg",
+    "static/media/Drizzle.82db518e.svg": "/static/media/Drizzle.82db518e.svg",
+    "static/media/Rain.6dcfb8a4.svg": "/static/media/Rain.6dcfb8a4.svg",
+    "static/media/Snow.790a7333.svg": "/static/media/Snow.790a7333.svg",
+    "static/media/Thunderstrom.28a7ec1b.svg": "/static/media/Thunderstrom.28a7ec1b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a51ad71.js",
+    "static/js/2.8228513d.chunk.js",
+    "static/css/main.071c1744.chunk.css",
+    "static/js/main.b841b1c3.chunk.js"
+  ]
+}
